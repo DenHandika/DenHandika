@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Deni Handika! <img src="https://media.giphy.com/media/hvRJjV2zoa1jc/giphy.gif" width="28px" alt="wave"></h1>
+<h1 align="center">Hi there, I'm Deni! <img src="https://media.giphy.com/media/hvRJjV2zoa1jc/giphy.gif" width="28px" alt="wave"></h1>
 
 <p align="center">
   <strong>Informatics Management Student at Astra Polytechnic | Full-Stack & Mobile Developer</strong><br>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChydeLuscient&label=Profile%20Views&color=0077B5&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DenHandika&label=Profile%20Views&color=0077B5&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -74,13 +74,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-pearl-six-15.vercel.app/api?username=ChydeLuscient&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChydeLuscient&theme=transparent&hide_border=true&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats-pearl-six-15.vercel.app/api?username=DenHandika&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenHandika&theme=transparent&hide_border=true&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-pearl-six-15.vercel.app/api/top-langs/?username=ChydeLuscient&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats-pearl-six-15.vercel.app/api/top-langs/?username=DenHandika&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" alt="Top Languages" height="165">
 </p>
 
 ---
-
