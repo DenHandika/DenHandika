@@ -73,14 +73,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChydeLuscient&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-pearl-six-15.vercel.app/api?username=ChydeLuscient&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChydeLuscient&theme=transparent&hide_border=true&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChydeLuscient&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats-pearl-six-15.vercel.app/api/top-langs/?username=ChydeLuscient&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" alt="Top Languages" height="165">
 </p>
 
 ---
-
-
