@@ -27,8 +27,6 @@
 * 💻 I specialize in **Software Development**, crafting applications across Web, Mobile, and Desktop ecosystems.
 * 📱 Learning **mobile development** with **React Native**.
 * ⚙️ I have strong hands-on experience in **Networking & Systems Administration**, including containerization and server deployments.
-* ☁️ Currently working on a **database migration project** — moving tables from on-premise **SQL Server** to **Azure SQL Database**.
-* 🚀 Currently building exciting platforms like the **Euclide Project**.
 * 🌱 Exploring deeper into the intersections of **Data Science** and **Artificial Intelligence**.
 * ✨ I appreciate and try to implement **clean, minimalist visual designs** in my workspaces and UI architectures.
 
