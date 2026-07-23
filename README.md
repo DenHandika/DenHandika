@@ -90,6 +90,6 @@ Migrating on-premise HR system tables to the cloud using the SSMS Import and Exp
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red" alt="made with love">
-</p>
+</p> -->
